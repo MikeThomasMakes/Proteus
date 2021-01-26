@@ -1,0 +1,50 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=P:\My Businesses\Proteus Engineering\Altium\Libaries\Miscellaneous Connectors\Miscellaneous Connectors.LibPkg
+[Project2]
+ProjectPath=P:\My Businesses\Proteus Engineering\Altium\Libaries\Miscellaneous Devices\Miscellaneous Devices.LibPkg
+[Project3]
+ProjectPath=Altium Libraries\Proteus Library\Proteus.LibPkg
+[Project4]
+ProjectPath=P:\My Businesses\Proteus Engineering\Clients\Loci\pcbs\common\LociLib.LibPkg
+[Project5]
+ProjectPath=..\Loci\pcbs\WellWatcher_Logic_V7\WellWatcher-Logic-V7.PrjPcb
+[Project6]
+ProjectPath=..\Loci\pcbs\WellWatcher_Logic_V7 - Bluetooth\WellWatcher-Logic-V7-Bluetooth.PrjPcb
+[Project7]
+ProjectPath=..\Loci\pcbs\Mono-Boards\Luminox\Luminox Mono.PrjPcb
+[Project8]
+ProjectPath=..\Loci\pcbs\Mono-Boards\Universal\Universal Mono.PrjPcb
+[Project9]
+ProjectPath=..\Loci\pcbs\Mono-Boards\SGX\SGX Mono.PrjPcb
+[Project10]
+ProjectPath=..\Loci\pcbs\Mono-Boards\Dynament\Dynament Mono.PrjPCB
+[Project11]
+ProjectPath=..\Loci\pcbs\Mono-Boards\NET\NET Mono.PrjPcb
+[Project12]
+ProjectPath=..\Duncan Reidner\PCB\Adafruit Motor HAT.PrjPcb
+[Project13]
+ProjectPath=..\Bilge Witch\Bilge Witch.PrjPCB
+[Project14]
+ProjectPath=..\Loci\pcbs\WellWatcher4v2-Logic\WellWatcher4v2-Logic.PrjPcb
+[Project15]
+ProjectPath=..\Loci\pcbs\WellWatcher4v2-Power\WellWatcher4v2-Power.PrjPcb
+[Project16]
+ProjectPath=..\Loci\pcbs\SensorComboBoard\Sensor Combo Board.PrjPcb
+[Project17]
+ProjectPath=..\Loci\pcbs\wwlib\WellWatcher.LibPkg
+[Project18]
+ProjectPath=..\Loci\pcbs\E_Controller_with_Honeywell_DIP_Sensors\E_Controller_Sensor Combo Board.PrjPcb
+[Project19]
+ProjectPath=..\Tool Inc\Control Board\Control Board.PrjPcb
+[Project20]
+ProjectPath=..\Tool Inc\LED-Board\LED Array.PrjPcb
+[Project21]
+ProjectPath=..\Loci\pcbs\Embedded MS5803\Embedded_MS5803.PrjPCB
+[Project22]
+ProjectPath=P:\My Businesses\Proteus Engineering\Clients\Archive\WrightGrid\Boards\Combo Board\Combo Board.PrjPcb
+[Project23]
+ProjectPath=..\TechniColor\TechniColor.PrjPCB
+[Project24]
+ProjectPath=..\Reshma\Moisture Sensor\Moisture Sensor.PrjPCB
