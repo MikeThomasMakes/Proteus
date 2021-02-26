@@ -28,6 +28,7 @@ typedef struct {
   char number[20]; // master number
   char pin[4]; // PIN
   boolean geo; // whether geofence is on
+  int radius; // geofence radius
   double location[2]; // gps coordinates
 } bbData;
 
@@ -135,7 +136,7 @@ void loop() {
       gps.location.lng(),
       myLocation[0],
       myLocation[1]);
-    if (Distance > Radius){
+    if (Distance > myBB.radius){
       sms.beginSMS(myBB.number);
       sms.print("Warning! GeoFence Breached! Distance from location is ");
       sms.print(Distance);
@@ -228,6 +229,7 @@ void numberSet(char number[20]) {
   }
   // write number and PIN to flash
   myFlash.write(myBB);
+  SendSMS("Device initialized!");
 }
 
 void numberReSet(char number[20]) {
@@ -308,7 +310,25 @@ void geoToggle(void) {
 }
 
 void radiusSet(void) {
-  //TODO
+  SendSMS("Please enter new GeoFence radius:");
+  // clear text buffer
+  sms.flush();
+  // initialize input array
+  char input[3];
+  // get input from SMS
+  if (sms.available())
+  {
+    for (int i = 0; i < 3; i++)
+    {
+      input[i] = sms.read();
+    }
+    // convert input to int
+    int feet = atoi(input);
+    
+    // write to memory
+    myBB.radius = feet;
+    myFlash.write(myBB);
+  }
 }
 
 void voltageShow(void) {

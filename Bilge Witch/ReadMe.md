@@ -11,7 +11,7 @@
 ## Using your Bilge Witch
 
 ### To toggle GeoFence: 
-Text "G" to your Bilge Witch. You will receive a text notification if your boat leaves your GeoFence radius.
+Text "G" to your Bilge Witch. You will receive a text notification if your boat leaves your GeoFence radius. The default radius is 30 feet.
 
 ### To set a custom GeoFence radius:
 Text "R" to your Bilge Witch. You will then receive a text prompting you to enter your desired radius in feet.
