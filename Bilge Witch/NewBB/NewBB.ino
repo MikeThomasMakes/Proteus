@@ -146,6 +146,9 @@ void loop() {
       delay(30000);
     }
   }
+
+  // Automated input/output interface
+
   //wait a second
   delay(1000);
 }
