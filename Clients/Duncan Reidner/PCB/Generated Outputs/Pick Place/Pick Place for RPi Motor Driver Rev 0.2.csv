@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\Pick Place\Pick Place for RPi Motor Driver Rev 0.2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/09/20
+Time:       11:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R12","Resistor 0603","TopLayer","0603R","3091.735","2791.339","90",""
+"R11","Resistor 0603","TopLayer","0603R","2983.467","2763.780","90",""
+"R10","Resistor 0603","TopLayer","0603R","3152.758","2562.992","360",""
+"R9","Resistor 0603","TopLayer","0603R","3150.790","2791.339","270",""
+"R8","Resistor 0603","TopLayer","0603R","3257.089","2562.993","360",""
+"R7","Resistor 0603","TopLayer","0603R","2983.467","2661.417","90",""
+"R6","Resistor 0603","TopLayer","0603R","3048.427","2562.992","180",""
+"R5","200 Ohms","TopLayer","POT_BOURNS_TRIMPOT_TC33","2863.189","2271.653","270","TRIMMER 200 OHM 0.1W J LEAD TOP"
+"R4","Resistor 0603","TopLayer","0603R","3091.735","2661.417","270",""
+"IC1","AD8615AUJZ-REEL","TopLayer","ANALOG_TSOT-23-5_UJ-5","3203.939","2660.433","360","IC OPAMP GP 1 CIRCUIT TSOT23-5"
+"FID3","FIDUCIAL""","TopLayer","FIDUCIAL_1MM","3476.377","1724.409","0","Fiducial Alignment PointsVarious fiducial points for machine vision alignment."
+"Switch","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K","2401.574","1765.162","360","CONN HEADER VERT 2POS 2MM"
+"SW_PWR","48ASSP3S1M2QBT","TopLayer","SWITCH_SLIDE_SPDT_5A_125V","1530.906","1299.213","270","SWITCH SLIDE SPDT 5A 125V"
+"SW2","TH_Testpoint_40mil","TopLayer","TH_Testpoint_40mil","2598.426","1765.158","0","TH Testpoint"
+"SW1","TH_Testpoint_40mil","TopLayer","TH_Testpoint_40mil","2204.724","1765.158","0","TH Testpoint"
+"R3","10 kOhms","TopLayer","POT_BOURNS_TRIMPOT_TC33","3441.929","1958.662","90","TRIMMER 10K OHM 0.1W J LEAD TOP"
+"R2","Resistor 0603","TopLayer","0603R","2334.646","1952.756","180",""
+"Linear","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K","2401.574","1456.692","360","CONN HEADER VERT 2POS 2MM"
+"Gripper","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K","2401.574","1154.404","360","CONN HEADER VERT 2POS 2MM"
+"BB","TH_Testpoint_40mil","TopLayer","TH_Testpoint_40mil","2204.724","1154.410","0","TH Testpoint"
+"BA","TH_Testpoint_40mil","TopLayer","TH_Testpoint_40mil","2598.426","1154.410","0","TH Testpoint"
+"AB","TH_Testpoint_40mil","TopLayer","TH_Testpoint_40mil","2598.426","1456.692","0","TH Testpoint"
+"AA","TH_Testpoint_40mil","TopLayer","TH_Testpoint_40mil","2204.724","1456.692","0","TH Testpoint"
+"U2","NCP1117ST50T3G","TopLayer","ON_SEMI_SOT-223_ST(318H)","1456.693","2125.984","90","IC REG LINEAR 5V 1A SOT223"
+"R1","100 Ohms","TopLayer","RES_0603_1608","1787.401","2007.874","270",""
+"C10","0.1µF","TopLayer","CAP_0603_1608","2274.607","2047.244","180","CAP CER 0.1UF 50V X7R 0603"
+"C3","10µF","TopLayer","CAP_0805_2012","1645.670","2125.984","90","CAP CER 10UF 25V X5R 0805"
+"C2","47µF","TopLayer","CAP_ALSMD_6.6MM_H6.1MM","1456.693","1771.654","180","CAP ALUM 47UF 20% 35V SMD"
+"C1","47µF","TopLayer","CAP_ALSMD_6.6MM_H6.1MM","1181.103","1456.692","180","CAP ALUM 47UF 20% 35V SMD"
+"C7","0.1µF","TopLayer","CAP_0603_1608","3297.362","1938.977","90","CAP CER 0.1UF 50V X7R 0603"
+"C5","4.7µF","TopLayer","CAP_0603_1608","3159.842","1938.977","90","CAP CER 4.7UF 35V X5R 0603"
+"U3","L293D","TopLayer","DIP880W50P254L2000H510Q16","2275.000","2362.205","90","Bipolar Motor Driver Parallel 16-PowerDIP"
+"D1","Green","TopLayer","LED_0603_1608_GREEN","1787.402","2125.984","270","LED GREEN CLEAR 1608 SMD"
+"C11","0.1µF","TopLayer","CAP_0603_1608","2279.527","2645.670","180","CAP CER 0.1UF 50V X7R 0603"
+"C9","0.1µF","TopLayer","CAP_0603_1608","3090.551","1938.977","90","CAP CER 0.1UF 50V X7R 0603"
+"C8","0.01µF","TopLayer","CAP_0603_1608","2962.598","2073.031","90","CAP CER 0.01UF 250V X7R 0603"
+"C4","0.1µF","TopLayer","CAP_0603_1608","1720.472","2125.985","90","CAP CER 0.1UF 50V X7R 0603"
+"C6","0.1µF","TopLayer","CAP_0603_1608","3228.346","1938.977","90","CAP CER 0.1UF 50V X7R 0603"
+"RPI1","RASPBERRYPI_BPLUS_HATSLOTS","TopLayer","PI_HAT_SLOTS","2279.530","2127.365","0",""
+"FID2","FIDUCIAL""","TopLayer","FIDUCIAL_1MM","3224.410","1135.952","0","Fiducial Alignment PointsVarious fiducial points for machine vision alignment."
+"FID1","FIDUCIAL""","TopLayer","FIDUCIAL_1MM","1065.000","2595.000","0","Fiducial Alignment PointsVarious fiducial points for machine vision alignment."
+"U1","DRV8825PWP","TopLayer","SOP65P640X120-29N","3204.725","2212.598","90","Bipolar Motor Driver Power MOSFET Logic 28-HTSSOP"

@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[RPi Motor Driver Rev A.GTO]
+   Generated File[RPi Motor Driver Rev A.GTP]
+   Generated File[RPi Motor Driver Rev A.GTS]
+   Generated File[RPi Motor Driver Rev A.GTL]
+   Generated File[RPi Motor Driver Rev A.GBL]
+   Generated File[RPi Motor Driver Rev A.GBS]
+   Generated File[RPi Motor Driver Rev A.GBO]
+   Generated File[RPi Motor Driver Rev A.GM4]
+   Generated File[RPi Motor Driver Rev A.GM6]
+   Generated File[RPi Motor Driver Rev A.GM13]
+   Generated File[RPi Motor Driver Rev A.GM15]
+   Generated File[RPi Motor Driver Rev A.GM30]
+   Generated File[RPi Motor Driver Rev A.GPT]
+   Generated File[RPi Motor Driver Rev A.GPB]
+   Generated File[RPi Motor Driver Rev A.RUL]
+   Generated File[RPi Motor Driver Rev A.EXTREP]
+   Generated File[RPi Motor Driver Rev A.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 9:32:14 PM On 6/19/2020

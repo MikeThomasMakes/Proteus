@@ -1,0 +1,10 @@
+# Inspired by https://github.com/fermiumlabs/altium-on-git/blob/master/.gitignore
+
+*.SchDocPreview
+*.PcbDocPreview
+__Previews
+*.LOG
+*.log
+Project Logs*
+Project Outputs for*
+History

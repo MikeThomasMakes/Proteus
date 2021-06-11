@@ -1,0 +1,96 @@
+*************************************************************
+FileName = RPi Motor Driver Rev 0.2.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\dimension\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\dimension\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\assembly_text_bottom\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\assembly_text_bottom\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\mechanical_12\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\mechanical_12\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\courtyard_bottom\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\courtyard_bottom\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\mechanical_17\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\mechanical_17\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\assembly_text_top\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\assembly_text_top\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\courtyard_top\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\courtyard_top\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\Users\Tartheis\Documents\Proteus Working Folder\Duncan Reidner\PCB\.\Generated Outputs\ODB\odb\steps\pcb\eda\data
+
